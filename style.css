@@ -1,0 +1,25 @@
+ [class*="navbar"]{
+    background-color: #353A40;
+ }
+
+ .green2 {
+   background-color: #96c93e;
+ }
+
+ .caption-center{
+  top:10%;
+ }
+
+ #parrafo{
+  height: 140px;
+  width:500px;
+ }
+
+ #boton1{
+  width:160px
+ }
+
+ #boton2{
+  width:180px
+ }
+
